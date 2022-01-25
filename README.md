@@ -1,7 +1,7 @@
 <p><img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="506" width="913"</p>
 
 <h1 align="center">Hi 👋, I'm Jirayut Senanolit</h1>
-<h3 align="center">CE l Computer engineering</h3>
+<h3 align="center">CE l Computer engineering l KMITL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayutyong&label=Profile%20views&color=0e75b6&style=flat" alt="jirayutyong" /> </p>
 
