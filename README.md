@@ -1,3 +1,5 @@
+<p><img align="center" src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" hight="0" width="500" </p>
+
 <h1 align="center">Hi 👋, I'm Jirayut Senanolit</h1>
 <h3 align="center">CE l Computer engineering</h3>
 
