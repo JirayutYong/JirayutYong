@@ -1,7 +1,7 @@
 <p><img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="506" width="913"</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Jirayut+Senanolit;&amp;center=true&amp;width=500&amp;height=50" height="108" width="1096">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F79DB1&size=22&multiline=true&lines=CE+l+Computer+Engineering+l+KMITL;&amp;center=true&amp;width=500&amp;height=50" height="108" width="1096">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F79DB1&lines=CE+l+Computer+Engineering+l+KMITL;&amp;center=true&amp;width=500&amp;height=50" height="108" width="1096">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayutyong&label=Profile%20views&color=0e75b6&style=flat" alt="jirayutyong" /> </p>
