@@ -1,4 +1,4 @@
-<p><img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"  </p>
+<p><img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="506" width="913" </p>
 
 <h1 align="center">Hi 👋, I'm Jirayut Senanolit</h1>
 <h3 align="center">CE l Computer engineering</h3>
