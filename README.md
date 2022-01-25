@@ -5,8 +5,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayutyong&label=Profile%20views&color=0e75b6&style=flat" alt="jirayutyong" /> </p>
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=JirayutYong&amp;layout=compact&amp;langs_count=8&amp;theme=radical" style="max-width: 100%;">
+<img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JirayutYong&amp;layout=compact&amp;langs_count=8&amp;theme=radical" style="max-width: 100%;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirayutyong" alt="jirayutyong" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
