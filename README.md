@@ -1,7 +1,7 @@
-<p><img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="506" width="913"</p>
+<img align="center" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="400" width="600">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2320F4F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Jirayut+Senanolit+%F0%9F%90%BC;&amp;center=true&amp;width=500&amp;height=50" height="108" width="1096">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F722D8&lines=%F0%9F%96%A5CE+Computer+Engineering+KMITL%F0%9F%96%A5;&amp;center=true&amp;width=500&amp;height=50" height="108" width="1096">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2320F4F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Jirayut+Senanolit+%F0%9F%90%BC;&amp;center=true&amp;width=500&amp;height=50" height="108" width="691">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F722D8&lines=%F0%9F%96%A5CE+Computer+Engineering+KMITL%F0%9F%96%A5;&amp;center=true&amp;width=500&amp;height=50" height="108" width="691">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jirayutyong&label=Profile%20views&color=0e75b6&style=flat" alt="jirayutyong" /> </p>
